@@ -1,0 +1,16 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h2>Crear nuevo producto</h2>
+<form method="POST">
+    <label>Nombre:</label>
+    <input type="text" name="nombre" required>
+    
+    <label>Precio:</label>
+    
+    <label>Categoría:</label>
+    <input type="text" name="categoria" required>
+    
+    <button type="submit" class="btn">Guardar</button>
+</form>
+{% endblock %}
