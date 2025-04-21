@@ -57,7 +57,7 @@ Mostrará un aviso si las contraseñas no coinciden.
 ![Image](https://github.com/user-attachments/assets/8ab0dbc7-135d-467c-98d2-7c16bf38c1e1)
 
 ### Validación de registro
-Se redigirá a una nueva pestaña donde se confirmirá tu registro.
+Se redirigirá a una nueva pestaña donde se confirmará tu registro.
 
 ![Image](https://github.com/user-attachments/assets/23b225a7-cca0-44b1-afe8-745b55985864)
 
