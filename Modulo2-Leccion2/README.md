@@ -8,7 +8,7 @@ En este proyecto se han utilizado herramientas como **Flask** y **Flask-WTF**. S
 
 ## Validaciones implementadas
 
-Este formulario cuenta con las siguentes validaciones:
+Este formulario cuenta con las siguientes validaciones:
 
 - **Nombre**:
     - Obligatorio 
@@ -51,7 +51,7 @@ Mostrará un aviso si la contraseña no cumple con el mínimo de 6 caracteres
 
 ![Image](https://github.com/user-attachments/assets/3f980071-0f60-4b25-b7f3-c0456bdb906d)
 
-### Constraseña distinta
+### Contraseña distinta
 Mostrará un aviso si las contraseñas no coinciden.
 
 ![Image](https://github.com/user-attachments/assets/8ab0dbc7-135d-467c-98d2-7c16bf38c1e1)
