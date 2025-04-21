@@ -1,4 +1,5 @@
 # Manejo y validacion de usuario con Flask-WTF
+Github: [Modulo2-Leccion2](https://github.com/YarelizCV/comp2052/tree/main/Modulo2-Leccion2)
 
 ## Descripción
 En este proyecto se han utilizado herramientas como **Flask** y **Flask-WTF**. Se han implementado validaciones para los campos de: nombre, correo y contraseña. 
