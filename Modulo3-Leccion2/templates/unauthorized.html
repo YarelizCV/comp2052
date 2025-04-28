@@ -1,0 +1,8 @@
+{% extends "base.html" %}
+
+{% block title %}Acceso Denegado{% endblock %}
+
+{% block content %}
+<h2>403 - No tienes permisos para acceder a esta ruta</h2>
+<a href="{{ url_for('login') }}" class="btn btn-primary">Volver al inicio</a>
+{% endblock %}

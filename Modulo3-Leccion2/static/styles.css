@@ -1,0 +1,102 @@
+body {
+    background: #e9ecef;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container {
+    max-width: 500px;
+    margin: 60px auto;
+    padding: 30px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+}
+
+h1, h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+form.process-form {
+    display: flex;
+    flex-direction: column;
+}
+
+form.process-form label {
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+form.process-form input[type="text"],
+form.process-form input[type="password"] {
+    margin-bottom: 15px;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ced4da;
+    border-radius: 5px;
+}
+
+form.process-form input[type="submit"] {
+    background-color: #0d6efd;
+    border: none;
+    color: white;
+    padding: 12px;
+    font-size: 16px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+form.process-form input[type="submit"]:hover {
+    background-color: #084298;
+}
+
+.message {
+    text-align: center;
+    color: #198754;
+    font-weight: bold;
+    margin-top: 15px;
+}
+
+.alert {
+    margin-bottom: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.alert-danger {
+    background-color: #f8d7da;
+    color: #842029;
+}
+
+.alert-info {
+    background-color: #cff4fc;
+    color: #055160;
+}
+
+.btn {
+    display: inline-block;
+    text-align: center;
+    padding: 10px 20px;
+    margin-top: 20px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.btn-primary {
+    background-color: #0d6efd;
+    color: white;
+}
+
+.btn-primary:hover {
+    background-color: #084298;
+}
+
+.btn-secondary {
+    background-color: #6c757d;
+    color: white;
+}
+
+.btn-secondary:hover {
+    background-color: #565e64;
+}
